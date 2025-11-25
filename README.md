@@ -1,4 +1,5 @@
-#week6
+# week6
+
 #include <iostream>
 
 Allows the program to use input/output (cout, cin).
