@@ -1,4 +1,31 @@
 # Week 7
+# Module1
+include <iostream>
+
+This allows the program to use input/output commands like cout and cin.
+
+using namespace std;
+
+This lets you use standard library commands without typing std:: each time.
+
+int main() { ... }
+
+This is the main function—where the program starts running.
+
+int choice;
+
+A variable named choice is created to store the user’s menu selection.
+
+cout << "1. Add Item\n2. View Items\n3. Exit\n";
+
+cout << "Choose an option: ";
+
+These lines display the menu to the user.
+
+cin >> choice;
+
+Reads the user’s input and stores it in the variable choice.
+
 # Module4
 
 Variable declaration
