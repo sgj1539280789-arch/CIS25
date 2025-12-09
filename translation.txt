@@ -1,0 +1,3 @@
+Deposit: $150
+Purchase - Snacks: $12.5
+Purchase - T-Shirt: $20
